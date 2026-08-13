@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles and videos"
+    },
+    {
+      "description": "Prompting AI for Open-Source IntelligencePrompt Engineering For OSINTA new gen of OSINT, AIAI and OSINT: Crafting Superior Investigation StrategiesHow to enhance OSINT investigations using AIThe Impact of AI with OSINT",
+      "items": [],
+      "title": "Universal"
+    },
+    {
+      "description": "Generative AI for OSINT: Next Level Techniques for ChatGPT and BeyondHow to use ChatGPT for OSINT103 OSINT ChatGPT prompt ideasOSINT Workflow with ChatGPT: Tips, Risks, and BenefitsChatGPT Prompting Cheat Sheet for OSINTUtilizing ChatGPT for OSINT InvestigationsIntel Sourcing AgentOSINT360 Cyber Intelligence GPT",
+      "items": [],
+      "title": "ChatGPT"
+    },
+    {
+      "description": "GROKINT – Using Grok AI for X OSINTHow AI is Changing OSINT: Investigating X Accounts with Grok Investigating X Profiles and Posts Using Grok AI",
+      "items": [],
+      "title": "Grok"
+    },
+    {
+      "description": "Claude AI for OSINT: What It Does & Where It Fits",
+      "items": [],
+      "title": "Claude"
+    },
+    {
+      "description": "OSINT Wins: A Survey of GPT-4, Claude, Gemini, and Grok on Information Warfare",
+      "items": [],
+      "title": "AI comparisons"
+    },
+    {
+      "description": "Why AI Won’t Replace Human Instinct in OSINT (and Never Should)The Slow Collapse of Critical Thinking in OSINT due to AIYou’re Not an OSINT Analyst, You’re an AI Prompt Monkey (And it Should Terrify You)",
+      "items": [],
+      "title": "Anti AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Skills and templates"
+    },
+    {
+      "description": "Claude OSINT Investigator: Claude code template",
+      "items": [],
+      "title": "Claude"
+    },
+    {
+      "description": "OSINT Graph AnalyzerXint - X intelligenceOcas ScoutMulti Search EngineFind PeopleOSINT InvestigatorOSINT Human ResearchOSINT skill for Claude Code, OpenClaw, Codex, OpenCode",
+      "items": [],
+      "title": "OpenClaw"
+    },
+    {
+      "description": "OSINT Tools MCP Server",
+      "items": [],
+      "title": "MCP servers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "Lenso.ai: reverse image search toolVehicle Identifier",
+      "items": [],
+      "title": "AI image search/identification"
+    },
+    {
+      "description": "OSINT GPTAI Assistant by Cyclect.ioOSInt GPTAnalyst's Co-Pilot-AI-powered intelligence analysis tool OSINTAI",
+      "items": [],
+      "title": "ChatGPT based online tools"
+    },
+    {
+      "description": "ZoomEye GPTCensysGPTShodanGPT",
+      "items": [],
+      "title": "IP search engines AI"
+    },
+    {
+      "description": "GeoSpyPicartaFindLocationGEOGPT FreeGeoFinderEarthKit Planet: AI sattelite object detection Geointel Python package",
+      "items": [],
+      "title": "AI GEOINT"
+    },
+    {
+      "description": "WordmonitorIranWarMapGlobalThreatMap",
+      "items": [],
+      "title": "AI worldwide events monitoring dashboards"
+    },
+    {
+      "description": "FaceSeek AI Powered Reverse Face SearchLenso.ai AI Face SearchProFace Finder AI Face ComprasionRaugen AI Face ComprasionThe Flux Train AI Face Similarity ScoreChatGPT based ethnicity guessrEthnicity AnalysisGalaxy AI Face Analyzer",
+      "items": [],
+      "title": "Face search/analysis tools"
+    },
+    {
+      "description": "God EyeReconBorneAISubsSmartSubAI",
+      "items": [],
+      "title": "Subdomain enumeration/search"
+    },
+    {
+      "description": "Aliens eye",
+      "items": [],
+      "title": "Username search"
+    },
+    {
+      "description": "The DorkerAdvanced Dorks Generator",
+      "items": [],
+      "title": "Google Dorks AI tools"
+    },
+    {
+      "description": "NeuraleadProspectrinExpose Team",
+      "items": [],
+      "title": "Contacts search/leads generation"
+    },
+    {
+      "description": "ImageWhispererHow to detect deepfakes with AIAI DetectorSensity.ai toolDeepWare",
+      "items": [],
+      "title": "AI generated content detection"
+    },
+    {
+      "description": "Ubikron not only replaces a bunch of browser extensions for analysing browser history, extracting data from web pages, and creating annotations. It also replaces a bunch of AI tools: tools for AI image identification, chat with an AI assistant, file analysis for investigation using AI, and much more. Try it now free in ubikron.com.\nUbikron - Chrome Extension\nTaranis AI - self-hostedCyclect: Ultimate AI OSINT Search Engine - onlineResearch Pilot v2.5 - online",
+      "items": [],
+      "title": "Multitask AI Tools"
+    },
+    {
+      "description": "OSINTGPTRobin:AI-Powered Dark Web OSINT ToolPerplexity Sonar OSINT AssistantDarkGPTMaigret LLM Sherlock Mail OSINT AI CLIAI OSINT Security AnalyzerArkhamMirror GeoSentinel 2.0PANO\nUbikron Advanced EnrichmentsAwesome OSINT Chrome ExtensionsOSINT PeopleOSINT CompaniesOSINT NewslettersOSINT BooksOSINT Conferences OSINT CTFs\nDon't miss our updates!\nLinkedinYouTube",
+      "items": [],
+      "title": "Command line/self hosted tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:57.883Z",
+    "original_repository": "ubikron/Awesome-AI-OSINT",
+    "original_repository_sha": "65665ac4d790f918ff9ef288acfa54a57d6e8429",
+    "enhanced_repository": "enhansome/enhansome-Awesome-AI-OSINT",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI OSINT with stars"
+  }
+}
