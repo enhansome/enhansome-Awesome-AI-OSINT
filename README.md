@@ -65,13 +65,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Find People](https://openclawdir.com/skills/find-people-uf0ugu)\
 [OSINT Investigator](https://clawskills.sh/skills/cineglobe-osint-investigator)\
 [OSINT Human Research](https://clawskills.sh/skills/andrewchen-oss-nuwa-world-osint-human-research)\
-[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 103 | 🐛 2 | 🌐 Shell | 📅 2026-03-10
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 105 | 🐛 2 | 🌐 Shell | 📅 2026-03-10
 
 ***
 
 ## MCP servers
 
-[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 230 | 🐛 2 | 🌐 Python | 📅 2025-08-07
+[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 231 | 🐛 2 | 🌐 Python | 📅 2025-08-07
 
 ***
 
@@ -111,7 +111,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,790 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,792 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,115 | 🐛 0 | 🌐 Python | 📅 2026-07-16
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,116 | 🐛 0 | 🌐 Python | 📅 2026-07-16
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,204 | 🐛 100 | 🌐 Python | 📅 2026-08-14 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,204 | 🐛 101 | 🌐 Python | 📅 2026-08-16 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
-[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 524 | 🐛 0 | 🌐 Python | 📅 2023-12-11\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,327 | 🐛 14 | 🌐 Python | 📅 2026-08-07\
+[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2023-12-11\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,331 | 🐛 14 | 🌐 Python | 📅 2026-08-07\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 207 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 258 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-27
@@ -178,7 +178,7 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-08-16\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-06-14\
-[PANO](https://github.com/ALW1EZ/PANO) ⭐ 583 | 🐛 1 | 🌐 Python | 📅 2026-02-13
+[PANO](https://github.com/ALW1EZ/PANO) ⭐ 585 | 🐛 1 | 🌐 Python | 📅 2026-02-13
 
 ***
 
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
