@@ -26,7 +26,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [ChatGPT Prompting Cheat Sheet for OSINT](https://knowlesys.com/osint/chatgpt_prompting_cheat_sheet.html)\
 [Utilizing ChatGPT for OSINT Investigations](https://osintteam.blog/utilizing-chatgpt-for-osint-investigations-8299ce16dd28)\
 [Intel Sourcing Agent](https://chatgpt.com/g/g-HcFHDwAdM-intel-sourcing-agent)\
-[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 113 | 🐛 0 | 📅 2026-08-13
+[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 114 | 🐛 0 | 📅 2026-08-13
 
 ### Grok
 
@@ -111,7 +111,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,800 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,803 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,368 | 🐛 0 | 🌐 Python | 📅 2026-07-16
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,419 | 🐛 0 | 🌐 Python | 📅 2026-07-16
 
 ### Google Dorks AI tools
 
@@ -168,16 +168,16 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 ### Command line/self hosted tools
 
-[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2026-08-20\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,374 | 🐛 14 | 🌐 Python | 📅 2026-08-07\
+[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2026-08-21\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,379 | 🐛 14 | 🌐 Python | 📅 2026-08-07\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 206 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 258 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-12-06
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-02-14\
-[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-08-19\
+[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-08-22\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
-[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-06-14\
+[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-14\
 [PANO](https://github.com/ALW1EZ/PANO) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2026-02-13
 
 ***
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
