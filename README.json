@@ -1,7 +1,101 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSINT Tools MCP Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033877893,
+            "language": "Python",
+            "last_commit": "2025-08-07T13:52:10Z",
+            "owner": "frishtik",
+            "repo": "osint-tools-mcp-server",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "MCP servers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aliens eye",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409072882,
+                "language": "Python",
+                "last_commit": "2026-07-16T22:11:25Z",
+                "owner": "arxhr007",
+                "repo": "Aliens_eye",
+                "stars": 3502
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Username search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Taranis AI",
+              "description": "self-hostedCyclect: Ultimate AI OSINT Search Engine - onlineResearch Pilot v2.5 - online",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700760709,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:10:24Z",
+                "owner": "taranis-ai",
+                "repo": "taranis-ai",
+                "stars": 1203
+              }
+            }
+          ],
+          "description": "Ubikron not only replaces a bunch of browser extensions for analysing browser history, extracting data from web pages, and creating annotations. It also replaces a bunch of AI tools: tools for AI image identification, chat with an AI assistant, file analysis for investigation using AI, and much more. Try it now free in ubikron.com.\nUbikron - Chrome Extension",
+          "node_type": "group",
+          "title": "Multitask AI Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OSINTGPT",
+              "description": "Robin:AI-Powered Dark Web OSINT ToolPerplexity Sonar OSINT AssistantDarkGPTMaigret LLM Sherlock Mail OSINT AI CLIAI OSINT Security AnalyzerArkhamMirror GeoSentinel 2.0PANO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636473464,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:21:58Z",
+                "owner": "estebanpdl",
+                "repo": "osintgpt",
+                "stars": 525
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command line/self hosted tools"
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:59:05.833Z",
+    "last_updated": "2026-08-24T14:18:57.504Z",
     "original_repository": "ubikron/Awesome-AI-OSINT",
     "original_repository_id": 1044482566,
     "original_repository_sha": "65665ac4d790f918ff9ef288acfa54a57d6e8429",
