@@ -38,7 +38,7 @@
                 "last_commit": "2026-07-16T22:11:25Z",
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3532
+                "stars": 3565
               }
             }
           ],
@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 700760709,
                 "language": "Python",
-                "last_commit": "2026-08-25T10:31:19Z",
+                "last_commit": "2026-08-26T10:41:15Z",
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
                 "stars": 1204
@@ -95,7 +95,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:56:54.739Z",
+    "last_updated": "2026-08-26T10:57:34.286Z",
     "original_repository": "ubikron/Awesome-AI-OSINT",
     "original_repository_id": 1044482566,
     "original_repository_sha": "65665ac4d790f918ff9ef288acfa54a57d6e8429",
