@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,613 | 🐛 0 | 🌐 Python | 📅 2026-07-16
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,638 | 🐛 0 | 🌐 Python | 📅 2026-07-16
 
 ### Google Dorks AI tools
 
@@ -162,23 +162,23 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,204 | 🐛 100 | 🌐 Python | 📅 2026-08-27 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,205 | 🐛 94 | 🌐 Python | 📅 2026-08-27 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
-[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2026-08-24\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,441 | 🐛 14 | 🌐 Python | 📅 2026-08-25\
+[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2026-08-27\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 6,445 | 🐛 14 | 🌐 Python | 📅 2026-08-25\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 208 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 259 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-12-06
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-02-14\
-[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-08-25\
+[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-08-27\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-14\
-[PANO](https://github.com/ALW1EZ/PANO) ⭐ 590 | 🐛 1 | 🌐 Python | 📅 2026-02-13
+[PANO](https://github.com/ALW1EZ/PANO) ⭐ 591 | 🐛 1 | 🌐 Python | 📅 2026-02-13
 
 ***
 

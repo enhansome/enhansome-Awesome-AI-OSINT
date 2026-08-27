@@ -38,7 +38,7 @@
                 "last_commit": "2026-07-16T22:11:25Z",
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3613
+                "stars": 3638
               }
             }
           ],
@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 700760709,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:37:39Z",
+                "last_commit": "2026-08-27T19:14:57Z",
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1204
+                "stars": 1205
               }
             }
           ],
@@ -79,7 +79,7 @@
                 "archived": false,
                 "id": 636473464,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:47:48Z",
+                "last_commit": "2026-08-27T20:35:41Z",
                 "owner": "estebanpdl",
                 "repo": "osintgpt",
                 "stars": 525
@@ -95,7 +95,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:16.726Z",
+    "last_updated": "2026-08-27T20:36:54.973Z",
     "original_repository_info": {
       "archived": false,
       "id": 1044482566,
