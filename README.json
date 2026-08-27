@@ -15,7 +15,7 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 233
+            "stars": 234
           }
         }
       ],
@@ -38,7 +38,7 @@
                 "last_commit": "2026-07-16T22:11:25Z",
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3565
+                "stars": 3613
               }
             }
           ],
@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 700760709,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:41:15Z",
+                "last_commit": "2026-08-27T10:37:39Z",
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
                 "stars": 1204
@@ -95,9 +95,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:57:34.286Z",
-    "original_repository": "ubikron/Awesome-AI-OSINT",
-    "original_repository_id": 1044482566,
+    "last_updated": "2026-08-27T11:23:16.726Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1044482566,
+      "language": null,
+      "last_commit": "2026-05-05T12:34:09Z",
+      "owner": "ubikron",
+      "repo": "Awesome-AI-OSINT",
+      "stars": 770
+    },
     "original_repository_sha": "65665ac4d790f918ff9ef288acfa54a57d6e8429",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-OSINT",
     "enhanced_repository_description": null,
