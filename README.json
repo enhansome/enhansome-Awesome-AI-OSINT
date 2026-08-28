@@ -15,8 +15,9 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 234
-          }
+            "stars": 235
+          },
+          "first_seen": "2026-08-28T21:12:13.083Z"
         }
       ],
       "title": "MCP servers"
@@ -38,8 +39,9 @@
                 "last_commit": "2026-07-16T22:11:25Z",
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3638
-              }
+                "stars": 3689
+              },
+              "first_seen": "2026-08-28T21:12:13.083Z"
             }
           ],
           "description": null,
@@ -57,11 +59,12 @@
                 "archived": false,
                 "id": 700760709,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:14:57Z",
+                "last_commit": "2026-08-28T15:26:10Z",
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
                 "stars": 1205
-              }
+              },
+              "first_seen": "2026-08-28T21:12:13.083Z"
             }
           ],
           "description": "Ubikron not only replaces a bunch of browser extensions for analysing browser history, extracting data from web pages, and creating annotations. It also replaces a bunch of AI tools: tools for AI image identification, chat with an AI assistant, file analysis for investigation using AI, and much more. Try it now free in ubikron.com.\nUbikron - Chrome Extension",
@@ -79,11 +82,12 @@
                 "archived": false,
                 "id": 636473464,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:35:41Z",
+                "last_commit": "2026-08-28T12:14:40Z",
                 "owner": "estebanpdl",
                 "repo": "osintgpt",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T21:12:13.083Z"
             }
           ],
           "description": null,
@@ -95,7 +99,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:36:54.973Z",
+    "last_updated": "2026-08-28T21:12:13.083Z",
     "original_repository_info": {
       "archived": false,
       "id": 1044482566,
