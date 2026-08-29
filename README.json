@@ -57,10 +57,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-16T22:11:25Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3693,
+                "stars": 3698,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:51.160Z",
+    "last_updated": "2026-08-29T15:08:44.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
