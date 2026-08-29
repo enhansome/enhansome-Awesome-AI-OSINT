@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server exposing multiple OSINT tools for AI assistants like Claude",
+            "homepage": null,
             "id": 1033877893,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T13:52:10Z",
+            "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 235
+            "stars": 236,
+            "topics": [
+              "ai",
+              "claude",
+              "holehe",
+              "intelligence-gathering",
+              "investigation",
+              "mcp",
+              "osint",
+              "reconnaissance",
+              "security",
+              "sherlock",
+              "spiderfoot"
+            ]
           },
           "first_seen": "2026-08-28T21:12:13.083Z"
         }
@@ -34,12 +51,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hunt down 840+ social media accounts using AI",
+                "homepage": null,
                 "id": 409072882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-16T22:11:25Z",
+                "open_issues": 0,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 3689
+                "stars": 3693,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "debain",
+                  "hack",
+                  "hacker",
+                  "hacking",
+                  "hackingtools",
+                  "information",
+                  "information-gathering",
+                  "linux",
+                  "linux-desktop",
+                  "osint",
+                  "python",
+                  "python-script",
+                  "python3",
+                  "social-media",
+                  "socialmediahacking",
+                  "termux",
+                  "termux-tool"
+                ]
               },
               "first_seen": "2026-08-28T21:12:13.083Z"
             }
@@ -57,12 +99,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
+                "homepage": "https://taranis.ai/",
                 "id": 700760709,
                 "language": "Python",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-08-28T15:26:10Z",
+                "open_issues": 90,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1205
+                "stars": 1206,
+                "topics": [
+                  "artificial-intelligence",
+                  "cybersecurity",
+                  "nlp",
+                  "osint",
+                  "secops"
+                ]
               },
               "first_seen": "2026-08-28T21:12:13.083Z"
             }
@@ -80,12 +133,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing",
+                "homepage": null,
                 "id": 636473464,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:14:40Z",
+                "open_issues": 0,
                 "owner": "estebanpdl",
                 "repo": "osintgpt",
-                "stars": 525
+                "stars": 525,
+                "topics": [
+                  "embeddings",
+                  "osint",
+                  "osint-python",
+                  "osint-tool",
+                  "pinecone",
+                  "python",
+                  "qdrant"
+                ]
               },
               "first_seen": "2026-08-28T21:12:13.083Z"
             }
@@ -99,15 +165,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:12:13.083Z",
+    "last_updated": "2026-08-29T04:36:51.160Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
+      "homepage": null,
       "id": 1044482566,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-05T12:34:09Z",
+      "open_issues": 5,
       "owner": "ubikron",
       "repo": "Awesome-AI-OSINT",
-      "stars": 770
+      "stars": 770,
+      "topics": [
+        "ai",
+        "awesome-list",
+        "chrome-extensions",
+        "intelligence",
+        "osint"
+      ]
     },
     "original_repository_sha": "65665ac4d790f918ff9ef288acfa54a57d6e8429",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-OSINT",
