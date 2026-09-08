@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,862 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 3,868 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
 ### Google Dorks AI tools
 
@@ -162,23 +162,23 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,211 | 🐛 90 | 🌐 Python | 📅 2026-09-07 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,212 | 🐛 89 | 🌐 Python | 📅 2026-09-08 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 526 | 🐛 0 | 🌐 Python | 📅 2026-09-05\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,013 | 🐛 15 | 🌐 Python | 📅 2026-08-25\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,021 | 🐛 15 | 🌐 Python | 📅 2026-08-25\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 209 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 260 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-12-06
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-02-14\
-[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-09-06\
+[AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-09-08\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-07\
-[PANO](https://github.com/ALW1EZ/PANO) ⭐ 595 | 🐛 1 | 🌐 Python | 📅 2026-02-13
+[PANO](https://github.com/ALW1EZ/PANO) ⭐ 596 | 🐛 1 | 🌐 Python | 📅 2026-02-13
 
 ***
 
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
