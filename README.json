@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "ai",
               "claude",
@@ -57,10 +57,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T16:50:20Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4058,
+                "stars": 4077,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:57:11.485Z",
+    "last_updated": "2026-09-20T14:16:59.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
@@ -174,7 +174,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-05T12:34:09Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "ubikron",
       "repo": "Awesome-AI-OSINT",
       "stars": 786,
