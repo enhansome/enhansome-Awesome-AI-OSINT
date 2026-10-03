@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,230 | 🐛 3 | 🌐 Python | 📅 2026-09-18
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,233 | 🐛 3 | 🌐 Python | 📅 2026-09-18
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,223 | 🐛 101 | 🌐 Python | 📅 2026-10-02 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,224 | 🐛 101 | 🌐 Python | 📅 2026-10-02 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 529 | 🐛 1 | 🌐 Python | 📅 2026-09-18\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,404 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,407 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 224 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 267 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
