@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "OSINT Tools MCP Server",
-          "description": null,
+          "description": "frishtik/osint-tools-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
             {
               "node_type": "item",
               "title": "Aliens eye",
-              "description": null,
+              "description": "arxhr007/Aliens_eye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -60,7 +60,7 @@
                 "open_issues": 3,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4227,
+                "stars": 4230,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -104,11 +104,11 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-10-02T14:59:15Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-02T22:05:03Z",
+                "open_issues": 101,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1222,
+                "stars": 1223,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:18:26.757Z",
+    "last_updated": "2026-10-03T04:24:13.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
