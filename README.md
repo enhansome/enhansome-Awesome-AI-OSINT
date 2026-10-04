@@ -105,13 +105,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [GeoFinder](https://geofinderai.com/)\
 [EarthKit](https://earthkit.app/)
 [Planet: AI sattelite object detection](https://www.planet.com/products/)
-[Geointel Python package](https://github.com/atiilla/GeoIntel) ⭐ 1,145 | 🐛 2 | 🌐 HTML | 📅 2026-03-09
+[Geointel Python package](https://github.com/atiilla/GeoIntel) ⭐ 1,144 | 🐛 2 | 🌐 HTML | 📅 2026-03-09
 
 ### AI worldwide events monitoring dashboards
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,840 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,841 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,233 | 🐛 3 | 🌐 Python | 📅 2026-09-18
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,243 | 🐛 3 | 🌐 Python | 📅 2026-09-18
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,224 | 🐛 101 | 🌐 Python | 📅 2026-10-02 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,224 | 🐛 101 | 🌐 Python | 📅 2026-10-04 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 529 | 🐛 1 | 🌐 Python | 📅 2026-09-18\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,407 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,419 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 224 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 267 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
@@ -178,20 +178,20 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-28\
-[PANO](https://github.com/ALW1EZ/PANO) ⭐ 607 | 🐛 1 | 🌐 Python | 📅 2026-02-13
+[PANO](https://github.com/ALW1EZ/PANO) ⭐ 611 | 🐛 1 | 🌐 Python | 📅 2026-02-13
 
 ***
 
 # Our other repositories
 
 [Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments) ⭐ 38 | 🐛 0 | 📅 2026-03-06\
-[Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions) ⭐ 253 | 🐛 4 | 📅 2026-05-05\
+[Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions) ⭐ 254 | 🐛 4 | 📅 2026-05-05\
 [OSINT People](https://github.com/ubikron/OSINT-People) ⭐ 39 | 🐛 0 | 📅 2026-05-09\
 [OSINT Companies](https://github.com/ubikron/OSINT-Companies) ⭐ 22 | 🐛 1 | 📅 2026-03-06\
-[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters) ⭐ 34 | 🐛 0 | 📅 2026-03-30\
+[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters) ⭐ 35 | 🐛 0 | 📅 2026-03-30\
 [OSINT Books](https://github.com/ubikron/OSINT-Books) ⭐ 302 | 🐛 0 | 📅 2026-05-18\
 [OSINT Conferences](https://github.com/ubikron/OSINT-Conferences) ⭐ 24 | 🐛 1 | 📅 2026-05-11
-[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs) ⭐ 78 | 🐛 0 | 📅 2026-03-27
+[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs) ⭐ 79 | 🐛 0 | 📅 2026-03-27
 
 Don't miss our updates!
 
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
