@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 242,
+            "stars": 241,
             "topics": [
               "ai",
               "claude",
@@ -57,10 +57,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T16:50:20Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4243,
+                "stars": 4252,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -104,11 +104,11 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-10-04T14:56:05Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-05T17:07:31Z",
+                "open_issues": 99,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1224,
+                "stars": 1227,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -138,7 +138,7 @@
                 "id": 636473464,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:39:20Z",
+                "last_commit": "2026-10-05T19:09:55Z",
                 "open_issues": 1,
                 "owner": "estebanpdl",
                 "repo": "osintgpt",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:26:09.260Z",
+    "last_updated": "2026-10-05T19:20:18.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
@@ -177,7 +177,7 @@
       "open_issues": 9,
       "owner": "ubikron",
       "repo": "Awesome-AI-OSINT",
-      "stars": 787,
+      "stars": 786,
       "topics": [
         "ai",
         "awesome-list",
