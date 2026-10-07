@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,261 | 🐛 5 | 🌐 Python | 📅 2026-09-18
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,275 | 🐛 5 | 🌐 Python | 📅 2026-09-18
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,227 | 🐛 100 | 🌐 Python | 📅 2026-10-06 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,228 | 🐛 99 | 🌐 Python | 📅 2026-10-07 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 530 | 🐛 1 | 🌐 Python | 📅 2026-10-06\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,435 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,443 | 🐛 0 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 226 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 267 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27
@@ -189,7 +189,7 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [OSINT People](https://github.com/ubikron/OSINT-People) ⭐ 40 | 🐛 0 | 📅 2026-05-09\
 [OSINT Companies](https://github.com/ubikron/OSINT-Companies) ⭐ 22 | 🐛 1 | 📅 2026-03-06\
 [OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters) ⭐ 35 | 🐛 0 | 📅 2026-03-30\
-[OSINT Books](https://github.com/ubikron/OSINT-Books) ⭐ 303 | 🐛 0 | 📅 2026-05-18\
+[OSINT Books](https://github.com/ubikron/OSINT-Books) ⭐ 304 | 🐛 0 | 📅 2026-05-18\
 [OSINT Conferences](https://github.com/ubikron/OSINT-Conferences) ⭐ 24 | 🐛 1 | 📅 2026-05-11
 [OSINT CTFs](https://github.com/ubikron/OSINT-CTFs) ⭐ 78 | 🐛 0 | 📅 2026-03-27
 
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
