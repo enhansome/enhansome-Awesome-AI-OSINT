@@ -60,7 +60,7 @@
                 "open_issues": 4,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4373,
+                "stars": 4389,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -104,11 +104,11 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-10-13T15:16:35Z",
+                "last_commit": "2026-10-15T14:37:22Z",
                 "open_issues": 106,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:15:57.006Z",
+    "last_updated": "2026-10-15T15:09:12.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
@@ -177,7 +177,7 @@
       "open_issues": 12,
       "owner": "ubikron",
       "repo": "Awesome-AI-OSINT",
-      "stars": 793,
+      "stars": 794,
       "topics": [
         "ai",
         "awesome-list",
