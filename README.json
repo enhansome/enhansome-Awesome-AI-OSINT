@@ -56,11 +56,11 @@
                 "id": 409072882,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:32:14Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-19T12:12:38Z",
+                "open_issues": 1,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4426,
+                "stars": 4434,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -104,11 +104,11 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-10-15T18:08:22Z",
+                "last_commit": "2026-10-19T16:27:05Z",
                 "open_issues": 106,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:04:18.143Z",
+    "last_updated": "2026-10-19T17:02:43.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
