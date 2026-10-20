@@ -26,7 +26,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [ChatGPT Prompting Cheat Sheet for OSINT](https://knowlesys.com/osint/chatgpt_prompting_cheat_sheet.html)\
 [Utilizing ChatGPT for OSINT Investigations](https://osintteam.blog/utilizing-chatgpt-for-osint-investigations-8299ce16dd28)\
 [Intel Sourcing Agent](https://chatgpt.com/g/g-HcFHDwAdM-intel-sourcing-agent)\
-[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 121 | 🐛 0 | 📅 2026-10-09
+[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 120 | 🐛 0 | 📅 2026-10-09
 
 ### Grok
 
@@ -105,13 +105,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [GeoFinder](https://geofinderai.com/)\
 [EarthKit](https://earthkit.app/)
 [Planet: AI sattelite object detection](https://www.planet.com/products/)
-[Geointel Python package](https://github.com/atiilla/GeoIntel) ⭐ 1,152 | 🐛 2 | 🌐 HTML | 📅 2026-03-09
+[Geointel Python package](https://github.com/atiilla/GeoIntel) ⭐ 1,154 | 🐛 2 | 🌐 HTML | 📅 2026-03-09
 
 ### AI worldwide events monitoring dashboards
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,853 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,855 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -127,13 +127,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Subdomain enumeration/search
 
 [God Eye](https://github.com/Vyntral/god-eye)\
-[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 175 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
+[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
 [AISubs](https://github.com/topscoder/aisubs) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-06-04\
 [SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-06-18
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,434 | 🐛 1 | 🌐 Python | 📅 2026-10-19
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,439 | 🐛 0 | 🌐 Python | 📅 2026-10-20
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,229 | 🐛 106 | 🌐 Python | 📅 2026-10-19 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,229 | 🐛 98 | 🌐 Python | 📅 2026-10-20 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 533 | 🐛 1 | 🌐 Python | 📅 2026-10-07\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,594 | 🐛 1 | 🌐 Python | 📅 2026-10-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,610 | 🐛 1 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 233 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 269 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
