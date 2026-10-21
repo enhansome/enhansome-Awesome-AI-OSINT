@@ -60,7 +60,7 @@
                 "open_issues": 0,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4439,
+                "stars": 4442,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -104,8 +104,8 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-10-20T15:10:30Z",
-                "open_issues": 98,
+                "last_commit": "2026-10-21T15:07:16Z",
+                "open_issues": 99,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
                 "stars": 1229,
@@ -138,11 +138,11 @@
                 "id": 636473464,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:14:24Z",
+                "last_commit": "2026-10-21T15:02:35Z",
                 "open_issues": 1,
                 "owner": "estebanpdl",
                 "repo": "osintgpt",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "embeddings",
                   "osint",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:13:01.310Z",
+    "last_updated": "2026-10-21T15:25:35.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
