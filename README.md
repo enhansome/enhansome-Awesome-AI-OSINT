@@ -26,7 +26,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [ChatGPT Prompting Cheat Sheet for OSINT](https://knowlesys.com/osint/chatgpt_prompting_cheat_sheet.html)\
 [Utilizing ChatGPT for OSINT Investigations](https://osintteam.blog/utilizing-chatgpt-for-osint-investigations-8299ce16dd28)\
 [Intel Sourcing Agent](https://chatgpt.com/g/g-HcFHDwAdM-intel-sourcing-agent)\
-[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 121 | 🐛 0 | 📅 2026-10-09
+[OSINT360 Cyber Intelligence GPT](https://github.com/oryon-osint/OSINT360-GPT) ⭐ 120 | 🐛 0 | 📅 2026-10-09
 
 ### Grok
 
@@ -65,7 +65,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Find People](https://openclawdir.com/skills/find-people-uf0ugu)\
 [OSINT Investigator](https://clawskills.sh/skills/cineglobe-osint-investigator)\
 [OSINT Human Research](https://clawskills.sh/skills/andrewchen-oss-nuwa-world-osint-human-research)\
-[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 150 | 🐛 1 | 🌐 Shell | 📅 2026-03-10
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 151 | 🐛 1 | 🌐 Shell | 📅 2026-03-10
 
 ***
 
@@ -111,7 +111,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,861 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,858 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -133,7 +133,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,645 | 🐛 0 | 🌐 Python | 📅 2026-10-25
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,656 | 🐛 0 | 🌐 Python | 📅 2026-10-25
 
 ### Google Dorks AI tools
 
@@ -162,33 +162,33 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,230 | 🐛 120 | 🌐 Python | 📅 2026-10-28 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,230 | 🐛 128 | 🌐 Python | 📅 2026-10-29 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
-[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-10-25\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,731 | 🐛 2 | 🌐 Python | 📅 2026-10-03\
+[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-10-29\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,740 | 🐛 2 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 238 | 🐛 0 | 📅 2024-03-12\
-[Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 268 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16
+[Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 267 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-12-06
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-02-14\
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-12\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-28\
-[PANO](https://github.com/ALW1EZ/PANO) ⭐ 626 | 🐛 2 | 🌐 Python | 📅 2026-02-13
+[PANO](https://github.com/ALW1EZ/PANO) ⭐ 625 | 🐛 2 | 🌐 Python | 📅 2026-02-13
 
 ***
 
 # Our other repositories
 
-[Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments) ⭐ 39 | 🐛 0 | 📅 2026-03-06\
-[Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions) ⭐ 254 | 🐛 5 | 📅 2026-05-05\
-[OSINT People](https://github.com/ubikron/OSINT-People) ⭐ 41 | 🐛 0 | 📅 2026-05-09\
-[OSINT Companies](https://github.com/ubikron/OSINT-Companies) ⭐ 22 | 🐛 1 | 📅 2026-03-06\
-[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters) ⭐ 36 | 🐛 0 | 📅 2026-03-30\
+[Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments) ⭐ 40 | 🐛 0 | 📅 2026-03-06\
+[Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions) ⭐ 255 | 🐛 5 | 📅 2026-05-05\
+[OSINT People](https://github.com/ubikron/OSINT-People) ⭐ 43 | 🐛 0 | 📅 2026-05-09\
+[OSINT Companies](https://github.com/ubikron/OSINT-Companies) ⭐ 23 | 🐛 1 | 📅 2026-03-06\
+[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters) ⭐ 37 | 🐛 0 | 📅 2026-03-30\
 [OSINT Books](https://github.com/ubikron/OSINT-Books) ⭐ 315 | 🐛 1 | 📅 2026-05-18\
 [OSINT Conferences](https://github.com/ubikron/OSINT-Conferences) ⭐ 25 | 🐛 1 | 📅 2026-05-11
 [OSINT CTFs](https://github.com/ubikron/OSINT-CTFs) ⭐ 82 | 🐛 0 | 📅 2026-03-27
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
