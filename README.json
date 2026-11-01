@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "ai",
               "claude",
@@ -60,7 +60,7 @@
                 "open_issues": 0,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4703,
+                "stars": 4708,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:47:46.919Z",
+    "last_updated": "2026-11-01T16:51:35.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
