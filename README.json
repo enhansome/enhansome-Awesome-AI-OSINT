@@ -52,7 +52,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "AI powered OSINT engine to discover and map  7,700+ social media identities across the web",
-                "homepage": null,
+                "homepage": "https://arxhr007.github.io/aliens-eye",
                 "id": 409072882,
                 "language": "Python",
                 "license": "MIT",
@@ -60,7 +60,7 @@
                 "open_issues": 0,
                 "owner": "arxhr007",
                 "repo": "Aliens_eye",
-                "stars": 4772,
+                "stars": 4783,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:33:05.389Z",
+    "last_updated": "2026-11-08T16:44:24.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
@@ -177,7 +177,7 @@
       "open_issues": 12,
       "owner": "ubikron",
       "repo": "Awesome-AI-OSINT",
-      "stars": 798,
+      "stars": 799,
       "topics": [
         "ai",
         "awesome-list",
