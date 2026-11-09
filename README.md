@@ -65,13 +65,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Find People](https://openclawdir.com/skills/find-people-uf0ugu)\
 [OSINT Investigator](https://clawskills.sh/skills/cineglobe-osint-investigator)\
 [OSINT Human Research](https://clawskills.sh/skills/andrewchen-oss-nuwa-world-osint-human-research)\
-[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 161 | 🐛 1 | 🌐 Shell | 📅 2026-03-10
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) ⭐ 164 | 🐛 1 | 🌐 Shell | 📅 2026-03-10
 
 ***
 
 ## MCP servers
 
-[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 247 | 🐛 1 | 🌐 Python | 📅 2025-08-07
+[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 249 | 🐛 1 | 🌐 Python | 📅 2025-08-07
 
 ***
 
@@ -111,7 +111,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,869 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,868 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -127,13 +127,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Subdomain enumeration/search
 
 [God Eye](https://github.com/Vyntral/god-eye)\
-[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 230 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
+[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 232 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
 [AISubs](https://github.com/topscoder/aisubs) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-06-04\
 [SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-06-18
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,783 | 🐛 0 | 🌐 Python | 📅 2026-11-07
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,794 | 🐛 0 | 🌐 Python | 📅 2026-11-09
 
 ### Google Dorks AI tools
 
@@ -162,22 +162,22 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,234 | 🐛 149 | 🌐 Python | 📅 2026-11-06 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,234 | 🐛 161 | 🌐 Python | 📅 2026-11-09 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
-[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 535 | 🐛 2 | 🌐 Python | 📅 2026-11-03\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,922 | 🐛 2 | 🌐 Python | 📅 2026-10-03\
+[OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 537 | 🐛 2 | 🌐 Python | 📅 2026-11-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 7,941 | 🐛 2 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 242 | 🐛 0 | 📅 2024-03-12\
-[Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 271 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05
+[Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 272 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-12-06
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-02-14\
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-10-12\
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
-[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-02\
+[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-09\
 [PANO](https://github.com/ALW1EZ/PANO) ⭐ 624 | 🐛 2 | 🌐 Python | 📅 2026-02-13
 
 ***
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
