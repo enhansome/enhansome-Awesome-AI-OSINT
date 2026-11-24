@@ -111,7 +111,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)\
 [IranWarMap](https://iranwarmap.com/)\
-[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,877 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap) ⭐ 1,880 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-02
 
 ### Face search/analysis tools
 
@@ -127,13 +127,13 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Subdomain enumeration/search
 
 [God Eye](https://github.com/Vyntral/god-eye)\
-[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 249 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
+[ReconBorne](https://github.com/vylarion/reconborne) ⭐ 250 | 🐛 0 | 🌐 Python | 📅 2025-08-12\
 [AISubs](https://github.com/topscoder/aisubs) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-06-04\
 [SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-06-18
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,864 | 🐛 0 | 🌐 Python | 📅 2026-11-22
+[Aliens eye](https://github.com/arxhr007/Aliens_eye) ⭐ 4,872 | 🐛 0 | 🌐 Python | 📅 2026-11-22
 
 ### Google Dorks AI tools
 
@@ -162,14 +162,14 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 
 [Ubikron](https://www.ubikron.com/) - Chrome Extension
 
-[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,246 | 🐛 174 | 🌐 Python | 📅 2026-11-23 - self-hosted\
+[Taranis AI](https://github.com/taranis-ai/taranis-ai) ⭐ 1,246 | 🐛 178 | 🌐 Python | 📅 2026-11-24 - self-hosted\
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online\
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online
 
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt) ⭐ 537 | 🐛 2 | 🌐 Python | 📅 2026-11-03\
-[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 8,087 | 🐛 1 | 🌐 Python | 📅 2026-10-03\
+[Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin) ⭐ 8,093 | 🐛 1 | 🌐 Python | 📅 2026-10-03\
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2025-04-06\
 [DarkGPT](https://github.com/binaco/DarkGPT) ⭐ 250 | 🐛 0 | 📅 2024-03-12\
 [Maigret LLM](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 274 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23
@@ -200,4 +200,4 @@ Don't miss our updates!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
