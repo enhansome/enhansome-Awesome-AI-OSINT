@@ -104,8 +104,8 @@
                 "id": 700760709,
                 "language": "Python",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-11-24T15:33:34Z",
-                "open_issues": 178,
+                "last_commit": "2026-11-25T18:30:47Z",
+                "open_issues": 188,
                 "owner": "taranis-ai",
                 "repo": "taranis-ai",
                 "stars": 1246,
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:43:14.817Z",
+    "last_updated": "2026-11-25T19:59:38.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of articles, videos, and tools related to the use of AI for OSINT.",
